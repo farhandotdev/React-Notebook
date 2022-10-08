@@ -4,4 +4,4 @@
 
 <b>You can also contribute in this repo for helping the new developer. 🤝</b>
 <br>
-<p><i>I am currently learning React and I can only provide best content in learing <b>React</b> for the new developer. 😍</i></p> 
+<p><i>I am currently learning React and I can only provide best content for learing <b>React</b> for the new developer. 😍</i></p> 
