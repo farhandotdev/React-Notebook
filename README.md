@@ -7,7 +7,7 @@
 <h2>How to contribute:-</h2>
 <p><b>Fork this repo</b> ---> <b>Create a New Branch</b> ---> <b>Edit</b> ---> <b>Raise a Pull Request</b></p>
 <br>
-<p><i>I am currently learning React and I can only provide best content for learing <b>React</b> for the new developer. 😍</i></p> 
+<p><i>I am currently learning React and I can only provide best content for learning <b>React</b> for the new developer. 😍</i></p> 
 <br>
 
 <b>Note :</b>
